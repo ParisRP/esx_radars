@@ -17,7 +17,7 @@ Speed radar, tickets speeders.
 ## To do
 
 ~~- Based on speed, how much over the speed limit tickets X amount~~ *DemonReborn
-- Sends a bill, instead of automatically taking the money out. 
+- automatically taking the money out. 
 - The ability to add more spots with different speed limits
 - Add vehicle hash list, so cops/ems can get fined when RPing as a civilian
 
