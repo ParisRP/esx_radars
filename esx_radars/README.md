@@ -23,7 +23,7 @@ Speed radar, tickets speeders.
 
 ## Requirements
 
-- **ox_lib** => [[https://forum.fivem.net/t/release-pnotify-in-game-js-notifications-using-noty/20659](https://github.com/overextended/ox_lib)](https://github.com/overextended/ox_lib)
+- **ox_lib** => [https://github.com/overextended/ox_lib](https://github.com/overextended/ox_lib)
 
 ## Download
 
