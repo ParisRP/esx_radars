@@ -114,6 +114,8 @@ function checkSpeed()
         -- Envoyer l'événement au serveur
         TriggerServerEvent('esx_radars:finePlayer', mphSpeed, fineAmount, plate)
 
+        -- Notification au joueur
+        --ESX.ShowNotification("~r~Flash!~s~\nVous avez été flashé à " .. mphSpeed .. " mph!\nAmende: $" .. fineAmount)
         -- Si ox_lib est installé
         if lib then
             lib.notify({
@@ -125,4 +127,5 @@ function checkSpeed()
             })
         end
     end
+
 end
