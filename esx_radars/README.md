@@ -4,13 +4,11 @@ Original script:
 - https://forum.fivem.net/t/release-vrp-stationary-radars/70605 - mostly taken from here edited it for ESX. 
 
 
-## DISCORD
-
-https://discord.me/fivem_esx
 
 ## SCREENSHOT
 
-![screenshot](https://i.gyazo.com/27ef5d91e30193948ca01e83bfd571d9.png)
+<img width="1920" height="1080" alt="radar" src="https://github.com/user-attachments/assets/af2ee053-9a23-4785-9f81-310e2b81cf72" />
+
 
 ## DESCRIPTION
 
